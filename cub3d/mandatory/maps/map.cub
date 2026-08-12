@@ -1,0 +1,15 @@
+NO mandatory/textures/wall_north.xpm
+SO mandatory/textures/wall_south.xpm
+WE mandatory/textures/wall_west.xpm
+EA mandatory/textures/wall_east.xpm
+
+
+F 110,110,100
+C 0,0,0
+
+111111
+100001
+100001
+10N001
+100001
+111111
